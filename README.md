@@ -12,9 +12,10 @@ Accédez au dossier "Application" que vous venez de créer, puis ouvrez-le à l'
 
 Dans Cmder, exécutez la commande suivante pour cloner le dépôt GitHub :
 
-git clone https://github.com/mohamedabi17/Gestion-des-Stages.git Accédez au dossier nouvellement créé "Gestion-des-Stages" en utilisant la commande suivante :
+git clone https://github.com/mohamedabi17/Complexe-sid-rurgique-d-El-Hadjar
+ Accédez au dossier nouvellement créé "Complexe-sid-rurgique-d-El-Hadjar" en utilisant la commande suivante :
 
-cd Gestion-des-Stages Ouvrez XAMPP et assurez-vous que les services MySQL et Apache Server sont activés.
+cd Complexe-sid-rurgique-d-El-Hadjar Ouvrez XAMPP et assurez-vous que les services MySQL et Apache Server sont activés.
 
 Revenez à Cmder et exécutez les commandes suivantes : 7.1. Pour installer les dépendances PHP, exécutez : composer install 7.2. Générez une nouvelle clé d'application en exécutant : php artisan key:generate 7.3. Exécutez les migrations de la base de données avec la commande : php artisan migrate Lorsque vous êtes invité à confirmer, saisissez "yes". 7.4. Démarrez le serveur PHP artisan en exécutant : php artisan serve
 
